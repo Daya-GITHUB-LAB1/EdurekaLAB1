@@ -1,8 +1,16 @@
 created this file to test thegit merge.....
 
+<<<<<<< HEAD
 changed to test the merage in branc
 
 
 12345
 
 456778h
+=======
+changed to test the merage in branch
+
+
+
+111111111111
+>>>>>>> clear
